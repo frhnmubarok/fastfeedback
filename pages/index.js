@@ -12,7 +12,9 @@ export default function Home() {
 			</Head>
 
 			<main className={styles.main}>
+
 				<h1 className={styles.title}>Fast Feedback</h1>
+
 
 				<p className={styles.description}>
 					Get started by editing{' '}
